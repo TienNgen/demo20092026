@@ -1,0 +1,14 @@
+# macOS / Windows cruft
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+
+# Recording and export artefacts — keep large media out of git
+*.mp4
+*.mov
+*.avi
+~$*.pptx
